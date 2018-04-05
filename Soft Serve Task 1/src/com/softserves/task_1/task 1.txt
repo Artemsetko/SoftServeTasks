@@ -1,0 +1,4 @@
+TASK 1. Consider classes Customer and Rental, which represent customer and information about rent.
+
+         Move method amountFor(…) into class Rental. Give explanation of this moving. Propose the solution for
+         improving code quality.
